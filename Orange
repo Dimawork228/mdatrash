@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Изображения</title>
+</head>
+ <body>
+  <img src="../../images/orange.jpg" alt="Апельсин" width="150" height="147"/>  
+ </body>
+</html>
